@@ -14,7 +14,7 @@
 |Autopilot[^1]|09/2021|🟢|22.40.1|22.40.1|22.35.1|.7z|[GNU GPL 3.0](https://gnu.org/licenses/gpl-3.0.html)|
 |FlySafe|01/2022|🟢|22.40.1|22.40.1|22.35.1|.7z|[GNU GPL 3.0](https://gnu.org/licenses/gpl-3.0.html)|
 
-## ↗️ Método, Updates e Versionamento
+## ↗️ Métodos, Updates e Versionamento
 - Métodos: Extreme Programming (XP), Clean Code
 - Updates
   - BlueShift: Alterações específicas que atendem exclusivamente ao contexto e finalidade do software a que se aplicam
@@ -37,8 +37,8 @@ Aplicativos e sites que utilizo no desenvolvimento dos terminal apps:
 - [LibreOffice](https://libreoffice.org)
 - [GIMP](https://gimp.org)
 - [7-Zip](https://7-zip.org)
-- [Unsplash](https://unsplash.com)
-- [Pexel](https://pexels.com)
+- [Unsplash](https://unsplash.com) 👏
+- [Pexel](https://pexels.com) 👏
 
 [^1]:_Este é um projeto pessoal_.
 
