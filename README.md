@@ -44,19 +44,19 @@ O open source é uma verdadeira revolução para o desenvolvimento de softwares.
 
 Há muitos motivos pelos quais as pessoas escolhem o open source em vez do software proprietário, como revisão por colaboradores, transparência, confiabilidade, flexibilidade, custo reduzido, independência de fornecedores, e colaboração aberta.
 
-Se você pretende estudar ou desenvolver algo relacionado a softwares open source, aqui estão alguns links úteis que consultei durante minhas pesquisas pra compreender alguns conceitos:
+Se você pretende estudar ou desenvolver algo relacionado a softwares open source, aqui estão alguns links úteis que consultei durante minhas pesquisas pra compreender alguns conceitos básicos:
 - [Definição de Open Source](https://opensource.org/osd)
 - [Licenças Open Source](https://opensource.org/licenses/category)
-- [Semantic Versioning](https://semver.org)
-- [Calendar Versioning](https://calver.org)
-- [Codificação de caracteres](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_character_encoding)
 - [Qualidade de Software](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)
 - [Introdução a Requisitos de Software](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580)
 - [Requisitos de Software](https://www.devmedia.com.br/artigo-engenharia-de-software-3-requisitos-nao-funcionais/9525)
 - [Desenvolvimento Ágil de Software](https://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software)
-- [Boas Práticas de Programação](https://www.devmedia.com.br/boas-praticas-de-programacao/21137)
 - [Manifesto Ágil](https://pt.wikipedia.org/wiki/Manifesto_%C3%A1gil)
 - [Programação Extrema](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_extrema)
+- [Boas Práticas de Programação](https://www.devmedia.com.br/boas-praticas-de-programacao/21137)
 - [Clean Code](https://www.hostgator.com.br/blog/clean-code-o-que-e)
 - [Seis Sigma](https://pt.m.wikipedia.org/wiki/Seis_Sigma)
 - [Código de Conduta - The Linux Kernel](https://www.kernel.org/doc/html/latest/process/code-of-conduct.html)
+- [Semantic Versioning](https://semver.org)
+- [Calendar Versioning](https://calver.org)
+- [Codificação de caracteres](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_character_encoding)
