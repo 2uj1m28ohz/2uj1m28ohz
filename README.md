@@ -50,7 +50,7 @@ Se você pretende estudar ou desenvolver algo relacionado a softwares open sourc
 - [Semantic Versioning](https://semver.org)
 - [Calendar Versioning](https://calver.org)
 - [Codificação de caracteres](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_character_encoding)
-- [Qualiade de Software](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)
+- [Qualidade de Software](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)
 - [Introdução a Requisitos de Software](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580)
 - [Requisitos de Software](https://www.devmedia.com.br/artigo-engenharia-de-software-3-requisitos-nao-funcionais/9525)
 - [Desenvolvimento Ágil de Software](https://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software)
