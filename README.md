@@ -38,6 +38,5 @@ Aplicativos e sites utilizados no processo de desenvolvimento:
 - [LibreOffice](https://libreoffice.org)
 - [GIMP](https://gimp.org)
 - [Unsplash](https://unsplash.com) :clap:
-- [Pexel](https://pexels.com) :clap:
 
 _Open Source_ :white_heart:
