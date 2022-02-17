@@ -57,6 +57,7 @@ Se você pretende estudar ou desenvolver algo relacionado a softwares open sourc
 - [Clean Code](https://www.hostgator.com.br/blog/clean-code-o-que-e)
 - [Seis Sigma](https://pt.m.wikipedia.org/wiki/Seis_Sigma)
 - [Código de Conduta - The Linux Kernel](https://www.kernel.org/doc/html/latest/process/code-of-conduct.html)
+- [Código de Conduta - Microsoft](https://opensource.microsoft.com/codeofconduct)
 - [Semantic Versioning](https://semver.org)
 - [Calendar Versioning](https://calver.org)
 - [Codificação de caracteres](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_character_encoding)
