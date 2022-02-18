@@ -67,5 +67,5 @@ Se você pretende estudar ou desenvolver algo relacionado a softwares open sourc
 - [Calendar Versioning](https://calver.org)
 - [Codificação de caracteres](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_character_encoding)
 
-## Atribuição
+## :clap: Atribuição
 :sunrise_over_mountains: Imagem de avatar por [@linussandvide](https://unsplash.com/photos/bhSNKT5aaMc)
