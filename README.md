@@ -1,4 +1,4 @@
-## :vulcan_salute: Saudações, David aqui
+## :vulcan_salute: Saudações, David aqui!
 
 Trabalhar em TI significa conhecer coisas novas constantemtente, e programar tem sido muito divertido. Os terminal apps que estou desenvolvendo começaram como uma necessidade pessoal de automatizar tarefas manuais do cotidiano.
 
@@ -16,9 +16,14 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
 
 ## :arrow_upper_right: Métodos, Updates e Versionamento
 - Métodos: Extreme Programming, Clean Code
-- Updates
+- Classes de Updates (documentação interna)
   - RedShift: Alterações que seguem as Diretrizes de Algoritmo ou Diretrizes de Interface, aplicáveis a todos os softwares
   - BlueShift: Alterações específicas que atendem exclusivamente ao contexto e finalidade do software a que se aplicam
+- Tipos de Updates (documentação pública)
+  - Requisitos: Especificam requisitos de software que devem ser atendidos pelo ambiente
+  - Algoritmo: Alterações que contém otimizações, correções, alterações, adição e remoção de recursos
+  - Interface: Alterações que descrevem o comportamento e características da interface de usuário
+  - Outros: Demais alterações que não podem ser classificadas como pertencentes aos demais tipos de updates
 - Versionamento: CalVer
 
 |Indicador|Descrição|Casas|
@@ -27,7 +32,7 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
 |D-DDD*|Dia|1-3|
 |B|Build|1|
 
-*_Dia absoluto do ano: 1-366_
+> Dia absoluto do ano: 1-366
 
 ## :rocket: Aplicativos e Sites
 Aplicativos e sites utilizados no processo de desenvolvimento:
@@ -61,3 +66,6 @@ Se você pretende estudar ou desenvolver algo relacionado a softwares open sourc
 - [Semantic Versioning](https://semver.org)
 - [Calendar Versioning](https://calver.org)
 - [Codificação de caracteres](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_character_encoding)
+
+## Atribuição
+:sunrise_over_mountains: Imagem de avatar por [@linussandvide](https://unsplash.com/photos/bhSNKT5aaMc)
