@@ -10,9 +10,9 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
 
 |Nome|Lançamento|Desenvolvimento|Suporte|Versão|Algoritmo|Interface|Idioma|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|01/2022|:green_circle:|:green_circle:|22.40.1|22.40.1|22.35.1|PT-BR|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|09/2021|:green_circle:|:green_circle:|22.40.1|22.40.1|22.35.1|PT-BR|
-|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|01/2022|:green_circle:|:green_circle:|22.40.1|22.40.1|22.35.1|PT-BR|
+|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|01/2022|:green_circle:|:green_circle:|22.50.1|22.50.1|22.35.1|PT-BR|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|09/2021|:green_circle:|:green_circle:|22.50.1|22.50.1|22.35.1|PT-BR|
+|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|01/2022|:green_circle:|:green_circle:|22.50.1|22.50.1|22.35.1|PT-BR|
 
 ## :arrow_upper_right: Métodos, Updates e Versionamento
 - Métodos: Extreme Programming, Clean Code
@@ -20,10 +20,10 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
   - RedShift: Alterações que seguem as Diretrizes de Algoritmo ou Diretrizes de Interface, aplicáveis a todos os softwares
   - BlueShift: Alterações específicas que atendem exclusivamente ao contexto e finalidade do software a que se aplicam
 - Tipos de Updates (documentação pública)
-  - Requisitos: Especificam requisitos de software que devem ser atendidos pelo ambiente
-  - Algoritmo: Alterações que contém otimizações, correções, alterações, adição e remoção de recursos
-  - Interface: Alterações que descrevem o comportamento e características da interface de usuário
-  - Outros: Demais alterações que não podem ser classificadas como pertencentes aos demais tipos de updates
+  - Requisito: Especificam os requisitos de software que devem ser atendidos pelo ambiente
+  - Algoritmo: Contém otimizações, correções, alterações, adição e remoção de recursos
+  - Interface: Modificam o comportamento, características e elementos da interface de usuário
+  - Outros: Atualizações que não podem ser classificadas como pertencentes aos demais tipos de updates
 - Versionamento: CalVer
 
 |Indicador|Descrição|Casas|
