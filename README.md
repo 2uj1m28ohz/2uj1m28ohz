@@ -8,11 +8,11 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
 
 ## :arrow_upper_right: Terminal Apps
 
-|Nome|Lançamento|Desenvolvimento|Suporte|Versão|Algoritmo|Interface|Idioma|
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|01/2022|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|09/2021|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
-|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|01/2022|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
+|Nome|Desenvolvimento|Suporte|Versão|Algoritmo|Interface|Idioma|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
+|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
 
 ## :arrow_upper_right: Métodos, Updates e Versionamento
 - Métodos: Extreme Programming, Clean Code
@@ -68,4 +68,4 @@ Se você pretende estudar ou desenvolver algo relacionado a softwares open sourc
 - [Codificação de caracteres](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_character_encoding)
 
 ## :clap: Atribuição
-:sunrise_over_mountains: Imagem de avatar por [@linussandvide](https://unsplash.com/photos/bhSNKT5aaMc)
+:sunrise_over_mountains: Imagem de avatar por [Linus Sandvide](https://unsplash.com/photos/bhSNKT5aaMc)
