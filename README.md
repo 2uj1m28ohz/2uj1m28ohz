@@ -10,9 +10,9 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
 
 |Nome|Desenvolvimento|Suporte|Versão|Algoritmo|Interface|Idioma|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
-|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|:green_circle:|:green_circle:|22.60.1|22.60.1|22.35.1|PT-BR|
+|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|:green_circle:|:green_circle:|22.070.1|22.070.1|22.070.1|PT-BR|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|:green_circle:|:green_circle:|22.070.1|22.070.1|22.070.1|PT-BR|
+|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|:green_circle:|:green_circle:|22.070.1|22.070.1|22.070.1|PT-BR|
 
 ## :arrow_upper_right: Métodos, Updates e Versionamento
 - Métodos: Extreme Programming, Clean Code
@@ -27,9 +27,9 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
 - Versionamento: CalVer
 
 |Indicador|Descrição|Casas|
-|:---:|:---:|:---:|
+|:---|:---|:---|
 |AA|Ano|2|
-|D-DDD*|Dia|1-3|
+|DDD*|Dia|3|
 |B|Build|1|
 
 > Dia absoluto do ano: 1-366
