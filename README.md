@@ -32,7 +32,7 @@ Compartilho aqui tudo o que tenho aprendido nos últimos meses, e espero que iss
 |DDD*|Dia|3|
 |B|Build|1|
 
-> Dia absoluto do ano: 1-366
+> Dia absoluto do ano: 001-366
 
 ## :rocket: Aplicativos e Sites
 Aplicativos e sites utilizados no processo de desenvolvimento:
