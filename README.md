@@ -31,9 +31,9 @@ Sim. Se você usar uma versão sem suporte, ela ainda funcionará, mas se tornar
 Para receber atualizações basta instalar o software e estar conectado à internet. Ao iniciar, ele buscará e instalará atualizações automaticamente. Se preferir usá-lo sem instalar, a atualização deve ser feita manualmente.
 
 ## :arrow_upper_right: Métodos, Versionamento e Atualizações
-- Métodos: [Extreme Programming](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498); Clean Code [[1]](https://blog.betrybe.com/tecnologia/clean-code), [[2]](https://www.alura.com.br/artigos/o-que-e-clean-code)
-- Versionamento: [CalVer](https://calver.org)
-- Atualizações
+- Métodos: Extreme Programming, Clean Code
+- Versionamento: CalVer
+- Atualizações:
   - Classes de Atualização
     - RedShift: Alterações que seguem as Diretrizes de Algoritmo ou Diretrizes de Interface, aplicáveis a todos os softwares
     - BlueShift: Alterações específicas que atendem exclusivamente ao contexto e finalidade do software a que se aplicam
@@ -51,7 +51,7 @@ Aplicativos e sites utilizados no processo de desenvolvimento:
 - [7-Zip](https://7-zip.org)
 - [LibreOffice](https://libreoffice.org)
 - [GIMP](https://gimp.org)
-- [Unsplash](https://unsplash.com) :clap:
+- [Unsplash](https://unsplash.com)
 
 ## :clap: Atribuição
-:sunrise_over_mountains: Imagem de avatar por [Linus Sandvide](https://unsplash.com/photos/bhSNKT5aaMc)
+Avatar por [Linus Sandvide](https://unsplash.com/photos/bhSNKT5aaMc)
