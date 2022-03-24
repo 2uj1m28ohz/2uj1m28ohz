@@ -27,7 +27,7 @@ Sim. Se você usar uma versão sem suporte, ela ainda funcionará, mas se tornar
 Para receber atualizações basta instalar o software e estar conectado à internet. Ao iniciar, ele buscará e instalará atualizações automaticamente. Se preferir usá-lo sem instalar, a atualização deve ser feita manualmente.
 
 ### Como entrar em contato com o Suporte?
-Entre em contato via mensagem privada no [Twitter](https://twitter.com/hd53r7us3e). Sua resposta será encaminhada o mais breve possível.
+Entre em contato via mensagem privada no [Twitter](https://twitter.com/hd53r7us3e). Sua resposta será direcionada o mais breve possível.
 
 > Em breve serão criados templates para o reporte de problemas, solicitação de recursos, contribuição e política de segurança.
 
