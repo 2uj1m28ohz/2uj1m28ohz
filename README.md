@@ -1,4 +1,4 @@
-## :vulcan_salute: Saudações!
+## :vulcan_salute: Saudações
 Trabalhar com Tecnologia da Informação requer aprendizado constante. Ainda que você defina uma especialização, a interação com outras ramificações da área são necessárias e sempre produtivas.
 
 Os terminal apps que estou desenvolvendo começaram como uma necessidade pessoal de automatizar tarefas manuais do cotidiano, e se transformaram em projetos independentes.
@@ -7,18 +7,18 @@ Com a base proporcionada pelo curso de Redes de Computadores, eles tem estimulad
 
 Esse processo iniciado em 2021 tem trazido inspiração e novas ideias que geram implementações, correções, otimizações e atualizações em todos os projetos. Compartilho aqui o que tenho aprendido recentemente e espero que isso possa ser útil à outras pessoas de alguma forma.
 
-## :gem: Terminal Apps
-|Nome|Versão|Data de Lançamento|Idioma|Desenvolvimento|Suporte|
+## :gem: Terminal Apps[^1]
+|Nome|Versão|Lançamento|Idioma|Desenvolvimento|Suporte|
 |:---|:---:|:---:|:---:|:---:|:---:|
 |[Launchpad](https://github.com/2uj1m28ohz/launchpad)|22.100.1|10/04/2022|PT-BR|:green_circle:|:green_circle:|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.100.1|10/04/2022|PT-BR|:green_circle:|:green_circle:|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.110.1|20/04/2022|PT-BR|:green_circle:|:green_circle:|
 |[FlySafe](https://github.com/2uj1m28ohz/flysafe)|22.100.1|10/04/2022|PT-BR|:green_circle:|:green_circle:|
 
-> :warning: A partir de 10/04/2022 versões com suporte encerrado serão removidas dos repositórios.
+> :warning: A partir de 10/04/2022 versões sem suporte são removidas dos repositórios.
 
 ## :arrow_upper_right: Métodos, Versionamento e Atualizações
 - Métodos: Extreme Programming, Clean Code
-- Versionamento: CalVer
+- Versionamento: Calendar Versioning
 - Atualizações:
     - Requisito: Especifica os requisitos de software que devem ser atendidos pelo ambiente
     - Algoritmo: Adiciona novos recursos, correções, otimizações e alterações
@@ -26,7 +26,7 @@ Esse processo iniciado em 2021 tem trazido inspiração e novas ideias que geram
     - Outros: Atualizações que não podem ser classificadas como pertencentes aos demais tipos
 
 ## :rocket: Aplicativos e Sites
-Aplicativos e sites utilizados no processo de desenvolvimento:
+Aplicativos e sites utilizados no desenvolvimento:
 - [PowerShell](https://github.com/powershell/powershell)
 - [Terminal](https://github.com/microsoft/terminal)
 - [VS Code](https://github.com/microsoft/vscode)
@@ -34,3 +34,5 @@ Aplicativos e sites utilizados no processo de desenvolvimento:
 - [LibreOffice](https://libreoffice.org)
 - [GIMP](https://gimp.org)
 - [Unsplash](https://unsplash.com)
+
+[^1]:Feito com :purple_heart: por David Camargo
