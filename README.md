@@ -7,10 +7,10 @@ Com a base proporcionada pelo curso de Redes de Computadores, eles tem estimulad
 
 Esse processo iniciado em 2021 tem trazido inspiração e novas ideias que geram implementações, correções, otimizações e atualizações em todos os projetos. Compartilho aqui o que tenho aprendido recentemente e espero que isso possa ser útil à outras pessoas de alguma forma.
 
-## :gem: Terminal Apps
+## :gem: Terminal Apps[^1]
 |Nome|Versão|Lançamento|Idioma|Desenvolvimento|Suporte|
 |:---|:---:|:---:|:---:|:---:|:---:|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.120.1|30/04/2022|PT-BR|:green_circle:|:green_circle:|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.130.1|10/05/2022|PT-BR|:green_circle:|:green_circle:|
 |[Launchpad](https://github.com/2uj1m28ohz/launchpad)|22.120.1|30/04/2022|PT-BR|:red_circle:|:green_circle:|
 |[FlySafe](https://github.com/2uj1m28ohz/flysafe)|22.120.1|30/04/2022|PT-BR|:red_circle:|:green_circle:|
 
@@ -35,4 +35,4 @@ Aplicativos e sites utilizados no desenvolvimento:
 - [GIMP](https://gimp.org)
 - [Unsplash](https://unsplash.com)
 
-Feito com :purple_heart: por David Camargo
+[^1]:Feito com :purple_heart: por David Camargo
