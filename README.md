@@ -11,8 +11,8 @@ Esse processo iniciado em 2021 tem trazido inspiração e novas ideias que geram
 |Nome|Versão|Lançamento|Idioma|Desenvolvimento|Suporte|
 |:---|:---:|:---:|:---:|:---:|:---:|
 |[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.130.1|10/05/2022|PT-BR|:green_circle:|:green_circle:|
-|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|22.120.1|30/04/2022|PT-BR|:red_circle:|:green_circle:|
-|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|22.120.1|30/04/2022|PT-BR|:red_circle:|:green_circle:|
+|[Launchpad](https://github.com/2uj1m28ohz/launchpad)|22.120.1|30/04/2022|PT-BR|:red_circle:|:red_circle:|
+|[FlySafe](https://github.com/2uj1m28ohz/flysafe)|22.120.1|30/04/2022|PT-BR|:red_circle:|:red_circle:|
 
 > :warning: A partir de 10/04/2022 versões sem suporte são removidas dos repositórios.
 
