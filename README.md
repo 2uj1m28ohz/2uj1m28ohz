@@ -11,7 +11,7 @@ Esse processo iniciado em 2021 tem trazido inspiração e novas ideias que geram
 |Nome|Versão|Lançamento|Idioma|Desenvolvimento|Suporte|
 |:---|:---:|:---:|:---:|:---:|:---:|
 |[Workflow](https://github.com/2uj1m28ohz/workflow)|22.190.2|09/07/2022|PT-BR|:green_circle:|:green_circle:|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.190.1|09/07/2022|PT-BR|:green_circle:|:green_circle:|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.190.1|09/07/2022|PT-BR|:red_circle:|:green_circle:|
 |[Launchpad](https://github.com/2uj1m28ohz/launchpad)|22.120.1|30/04/2022|PT-BR|:red_circle:|:red_circle:|
 |[FlySafe](https://github.com/2uj1m28ohz/flysafe)|22.120.1|30/04/2022|PT-BR|:red_circle:|:red_circle:|
 
