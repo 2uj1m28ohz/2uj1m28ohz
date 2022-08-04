@@ -1,7 +1,7 @@
 ## :vulcan_salute: Saudações
 Trabalhar com Tecnologia da Informação requer aprendizado constante. Ainda que você defina uma especialização, a interação com outras ramificações da área são necessárias e sempre produtivas.
 
-Os terminal apps que tenho desenvolvido começaram como uma necessidade pessoal de automatizar tarefas manuais do cotidiano, e se transformaram em projetos independentes.
+Os terminal apps que tenho desenvolvido surgiram da necessidade de automatizar tarefas do cotidiano, e se transformaram em projetos independentes.
 
 Com a base proporcionada pelo curso de Redes de Computadores, eles tem estimulado meu aprendizado em novas ferramentas, assim como ler sobre muitos novos temas como codificação de caracteres, linguagem shell script, CLI, GUI, HTML, CSS, métodos de desenvolvimento ágil, versionamento de software, e mais recentemente clean code.
 
