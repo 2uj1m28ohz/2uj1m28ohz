@@ -13,7 +13,7 @@ Esse processo iniciado em 2021 tem trazido inspiração e novas ideias que geram
 |[Workflow](https://github.com/2uj1m28ohz/workflow)|22.190.2|09/07/2022|PT-BR|:green_circle:|:green_circle:|
 |[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.190.1|09/07/2022|PT-BR|:red_circle:|:green_circle:|
 
-> :warning: A partir de 10/04/2022 versões sem suporte são removidas dos repositórios.
+> :warning: Versões sem suporte são removidas dos repositórios.
 
 ## :arrow_upper_right: Métodos, Versionamento e Atualizações
 - Métodos: Extreme Programming, Clean Code
