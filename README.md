@@ -10,10 +10,12 @@ Esse processo iniciado em 2021 tem trazido inspiração e novas ideias que geram
 ## :gem: Terminal Apps[^1]
 |Nome|Versão|Lançamento|Idioma|Desenvolvimento|Suporte|
 |:---|:---:|:---:|:---:|:---:|:---:|
-|[Workflow](https://github.com/2uj1m28ohz/workflow)|22.190.2|09/07/2022|PT-BR|:green_circle:|:green_circle:|
+|[Workflow](https://github.com/2uj1m28ohz/workflow)|22.230.1|18/08/2022|PT-BR|:green_circle:|:green_circle:|
 |[Autopilot](https://github.com/2uj1m28ohz/autopilot)|22.190.1|09/07/2022|PT-BR|:red_circle:|:green_circle:|
+|Launchpad|22.120.1|30/04/2022|PT-BR|:red_circle:|:red_circle:|
+|FlySafe|22.120.1|30/04/2022|PT-BR|:red_circle:|:red_circle:|
 
-> :warning: Versões sem suporte são removidas dos repositórios.
+> :warning: Repositórios descontinuados e versões de software sem suporte são removidas após o encerramento do seu ciclo de vida.
 
 ## :arrow_upper_right: Métodos, Versionamento e Atualizações
 - Métodos: Extreme Programming, Clean Code
