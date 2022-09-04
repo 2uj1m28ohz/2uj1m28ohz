@@ -39,9 +39,7 @@ No ciclo atual `Workflow` tem o objetivo de aprimorar elementos, fluxos e concei
 
 O que está por vir?
 - Notificações: Envio de notificações ao sistema operacional
-- Personalização: Disponibilização de novos temas para a interface
-- Verificação de Integridade: Detecção de alterações ilegais de algoritmo e correção automáticas
-- Modo Rollback: Permite executar versões anteriores do software temporariamente sem comprometer as configurações da versão atual
+- Personalização: Disponibilização de novos temas para a Interface
 
 Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
@@ -50,7 +48,7 @@ Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2
 |:---:|:---:|:---:|:---:|
 |[Workflow](https://github.com/2uj1m28ohz/workflow)|Ativo|Ativo|Evoluindo|
 |[Launchpad](https://github.com/2uj1m28ohz/launchpad)|Encerrado|Encerrado|Legado|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|Encerrado|Ativo|Legado|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|Encerrado|Ativo|Ativo|
 |[FlySafe](https://github.com/2uj1m28ohz/flysafe)|Encerrado|Encerrado|Legado|
 > **NOTA:** Verifique a Política de Suporte disponível nos repositórios.
 
