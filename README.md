@@ -5,13 +5,13 @@ Olá, me chamo David Camargo e nos últimos 12 meses dei vida a um projeto pesso
 Workflow surgiu da necessidade de agilizar processos e automatizar tarefas repetitivas do cotidiano. Seu desenvolvimento está divido em quatro ciclos:
 
 ```
-SystemMaintenance ─ Tron ─┬─ Autopilot ─┬─ Workflow >
-                          ├─ Launchpad ─┤
-                          └─ FlySafe ───┘
+├─ SystemMaintenance ─ Tron ─┬─ Autopilot ─┬─ Workflow >
+                             ├─ Launchpad ─┤
+                             └─ FlySafe ───┘
 ```
 
 ### Ciclo 1
-Inicialmente nomeado como `SystemMaintenance` e escrito para o legado Prompt de Comando, este é considerado o *Ciclo Lento de Desenvolvimento* devido às necessidades de compreensão da linguagem shell script, construção do núcleo do software e testes extensos. Posteriormente SystemMaintenance foi portado para PowerShell 5.1 e as versões legadas foram descartadas.
+Inicialmente nomeado como `SystemMaintenance` e escrito para o legado Prompt de Comando, o projeto tem início com o que é considerado o *Ciclo Lento de Desenvolvimento* devido às necessidades de compreensão da linguagem shell script, construção do núcleo do software e testes extensos. Posteriormente SystemMaintenance foi portado para PowerShell 5.1 e as versões legadas foram descartadas.
 
 ### Ciclo 2
 Você deve ter percebido que durante o segundo ciclo, Workflow foi nomeado como `Tron`. O universo criado por Steven Lisberger foi uma clara inspiração para este projeto desde as primeiras linhas de código. Há diversos easter eggs espalhados pelo algoritmo e interface das versões criadas durante os dois primeiros ciclos de desenvolvimento, no entanto elas nunca foram publicadas.
@@ -20,9 +20,10 @@ Este ciclo manteve a cadência na implementação de novas funcionalidades e tro
 
 ```
 22.100.1
-│   │  └─ Build
-│   └──── Dia do Ano
-└──────── Ano
+─┬ ─┬─ ┬
+ │  │  └─┤ Build
+ │  └────┤ Dia do Ano
+ └───────┤ Ano
 ```
 
 ### Ciclo 3
@@ -32,14 +33,16 @@ Progressivamente o desenvolvimento de Launchpad e FlySafe foi reduzido até ambo
 
 Funcionalidades como o Registro de Eventos e os módulos de Instalação e Atualização automáticas foram introduzidos no núcleo de Autopilot para permitir maior controle, velocidade e confiabilidade na entrega de correções, otimizações e novos recursos, além de aumentar gradualmente os requisitos de sistema para garantir a compatibilidade e a segurança do algoritmo.
 
-O fundamentos instituídos pelas Diretrizes de Interface determinam intuitividade, unidade e minimalismo como alguns dos requisitos da experiência do usuário. Uma [CLI](https://blog.betrybe.com/tecnologia/tudo-sobre-cli/) está limitada às possiblidades do terminal que a executa, por isso é importante criar seus próprios elementos, fluxos e estudar a palheta de cores legível pelo terminal a fim de criar um layout consistente e agradável. "*Design não é apenas aparência, design é sobre como as coisas funcionam.*" - Steve Jobs.
+Os fundamentos instituídos pelas Diretrizes de Interface determinam intuitividade, unidade e minimalismo como alguns dos requisitos da experiência do usuário. Uma [CLI](https://blog.betrybe.com/tecnologia/tudo-sobre-cli/) está limitada às possiblidades do terminal que a executa, por isso é importante criar seus próprios elementos, fluxos e estudar a palheta de cores legível pelo terminal a fim de criar um layout consistente e agradável. "*Design não é apenas aparência, design é sobre como as coisas funcionam.*" - Steve Jobs.
 
 ### Ciclo 4
 No ciclo atual `Workflow` tem o objetivo de aprimorar elementos, fluxos e conceitos já introduzidos, e expandir a disponibilidade de recursos mantendo sua arquitetura [monolítica-modular](https://youtu.be/CsrHHHPHKwE). Os monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de desenvolvimento, depuração, teste, implementação e execução.
 
-O que está por vir?
-- Notificações: Envio de notificações ao sistema operacional
-- Personalização: Disponibilização de novos temas para a Interface
+O que está por vir:
+- Design refinado, atualização de layout e elementos visuais
+- Velocidade de carregamento e download de pacotes de software aprimorada
+- Redução no consumo de memória para operações de compactação de dados
+- Unificação do menu de configurações
 
 Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
@@ -48,7 +51,7 @@ Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2
 |:---:|:---:|:---:|:---:|
 |[Workflow](https://github.com/2uj1m28ohz/workflow)|Ativo|Ativo|Evoluindo|
 |[Launchpad](https://github.com/2uj1m28ohz/launchpad)|Encerrado|Encerrado|Legado|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|Encerrado|Ativo|Ativo|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|Encerrado|Encerrado|Ativo|
 |[FlySafe](https://github.com/2uj1m28ohz/flysafe)|Encerrado|Encerrado|Legado|
 > **NOTA:** Verifique a Política de Suporte disponível nos repositórios.
 
