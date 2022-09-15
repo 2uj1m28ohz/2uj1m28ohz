@@ -51,7 +51,7 @@ Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2
 |:---:|:---:|:---:|:---:|
 |[Workflow](https://github.com/2uj1m28ohz/workflow)|Ativo|Ativo|Evoluindo|
 |[Launchpad](https://github.com/2uj1m28ohz/launchpad)|Encerrado|Encerrado|Legado|
-|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|Encerrado|Encerrado|Ativo|
+|[Autopilot](https://github.com/2uj1m28ohz/autopilot)|Encerrado|Encerrado|Legado|
 |[FlySafe](https://github.com/2uj1m28ohz/flysafe)|Encerrado|Encerrado|Legado|
 > **NOTA:** Verifique a Política de Suporte disponível nos repositórios.
 
