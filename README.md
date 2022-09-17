@@ -38,12 +38,6 @@ Os fundamentos instituídos pelas Diretrizes de Interface determinam intuitivida
 ### Ciclo 4
 No ciclo atual `Workflow` tem o objetivo de aprimorar elementos, fluxos e conceitos já introduzidos, e expandir a disponibilidade de recursos mantendo sua arquitetura [monolítica-modular](https://youtu.be/CsrHHHPHKwE). Os monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de desenvolvimento, depuração, teste, implementação e execução.
 
-O que está por vir:
-- Design refinado, atualização de layout e elementos visuais
-- Velocidade de carregamento e download de pacotes de software aprimorada
-- Redução no consumo de memória para operações de compactação de dados
-- Unificação do menu de configurações
-
 Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
 ## :gem: Softwares[^1]
@@ -63,6 +57,7 @@ Aplicativos e sites utilizados no processo de desenvolvimento:
 - [7-Zip](https://7-zip.org)
 - [LibreOffice](https://libreoffice.org)
 - [GIMP](https://gimp.org)
-- [Unsplash](https://unsplash.com)
+- [Unsplash](https://unsplash.com)[^2]
 
 [^1]:Desenvolvidos com :purple_heart: por David Camargo
+[^2]:Imagem por [Chong Wei](https://unsplash.com/photos/oMcTmNHclZI)
