@@ -1,5 +1,5 @@
 ## :vulcan_salute: Saudações
-Olá, me chamo David Camargo e nos últimos 12 meses dei vida a um projeto pessoal que tem estimulado meu aprendizado em diversas ferramentas e temas. Compartilho aqui o que tenho aprendido recentemente. Espero que isso possa ser útil e inspire outros em seus projetos pessoais :)
+Olá, me chamo David Camargo e nos últimos 13 meses dei vida a um projeto pessoal que tem estimulado meu aprendizado em diversas ferramentas e temas. Compartilho aqui o que tenho desenvolvido, espero que possa ser útil e inspire outros em seus projetos pessoais :)
 
 ## :computer: Desenvolvimento
 Workflow surgiu da necessidade de agilizar processos e automatizar tarefas repetitivas do cotidiano. Seu desenvolvimento está divido em quatro ciclos:
@@ -40,7 +40,7 @@ No ciclo atual `Workflow` tem o objetivo de aprimorar elementos, fluxos e concei
 
 Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
-## :gem: Softwares[^1]
+## :gem: Softwares
 |Nome|Desenvolvimento|Suporte|Estado|
 |:---:|:---:|:---:|:---:|
 |[Workflow](https://github.com/2uj1m28ohz/workflow)|Ativo|Ativo|Evoluindo|
@@ -50,14 +50,10 @@ Você pode saber mais sobre a evolução de Workflow [aqui](https://github.com/2
 > **NOTA:** Verifique a Política de Suporte disponível nos repositórios.
 
 ## :rocket: Aplicativos e Sites
-Aplicativos e sites utilizados no processo de desenvolvimento:
 - [PowerShell](https://github.com/powershell/powershell)
 - [Terminal](https://github.com/microsoft/terminal)
 - [VS Code](https://github.com/microsoft/vscode)
 - [7-Zip](https://7-zip.org)
 - [LibreOffice](https://libreoffice.org)
 - [GIMP](https://gimp.org)
-- [Unsplash](https://unsplash.com)[^2]
-
-[^1]:Desenvolvidos com :purple_heart: por David Camargo
-[^2]:Imagem por [Chong Wei](https://unsplash.com/photos/oMcTmNHclZI)
+- [Unsplash](https://unsplash.com)
