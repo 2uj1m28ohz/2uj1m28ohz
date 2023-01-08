@@ -2,7 +2,7 @@
 Olá! David Camargo aqui. Nos últimos anos tenho desenvolvido um projeto que foi muito além das expectativas iniciais e se tornou um hobby. Compartilho aqui um pouco do que tenho aprendido, espero que possa ser útil e inspire você em seus projetos pessoais :)
 
 ## :computer: Desenvolvimento
-Workflow surgiu da necessidade de agilizar processos e automatizar tarefas repetitivas do cotidiano. Seu desenvolvimento está organizado em quatro ciclos:
+Workflow surgiu da necessidade de agilizar processos e automatizar tarefas repetitivas. Seu desenvolvimento está organizado em ciclos:
 
 ```
 ♦──────── 2021 ────────♦──────── 2022 ────────♦────────┤ 2023 ├────────♦>
@@ -15,7 +15,7 @@ O universo de Tron criado por Steven Lisberger foi uma clara inspiração na con
 Ao longo do ano a cadência no lançamento de novas versões trouxe funcionalidades e avanços significativos ao software como o suporte ao PowerShell 7.0 e à codificação de caracteres [UTF8NoBom](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_character_encoding), atualização de elementos da interface, alteração para o formato de versionamento [CalVer](https://calver.org/) a fim de simplificar o controle de versões, suporte ao 7-Zip para a compactação de dados, e a escolha de uma licença de software livre.
 
 ```
-                 20.1.1-001                                             21.001.1
+                 21.1.1-001                                             21.001.1
 SemVer ───────────┬─┬─┬──┬                             CalVer ──────────┬──┬──┬
                   │ │ │  └┤ Build                                       │  │  └─┤ Build
                   │ │ └───┤ Correções                                   │  └────┤ Dia absoluto do ano
