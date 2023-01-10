@@ -15,12 +15,12 @@ O universo de Tron criado por Steven Lisberger foi uma clara inspiração na con
 Ao longo do ano a cadência no lançamento de novas versões trouxe funcionalidades e avanços significativos ao software como o suporte ao PowerShell 7.0 e à codificação de caracteres [UTF8NoBom](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_character_encoding), atualização de elementos da interface, alteração para o formato de versionamento [CalVer](https://calver.org/) a fim de simplificar o controle de versões, suporte ao 7-Zip para a compactação de dados, e a escolha de uma licença de software livre.
 
 ```
-                 21.1.1-001                                             21.001.1
-SemVer ───────────┬─┬─┬──┬                             CalVer ──────────┬──┬──┬
-                  │ │ │  └┤ Build                                       │  │  └─┤ Build
-                  │ │ └───┤ Correções                                   │  └────┤ Dia absoluto do ano
-                  │ └─────┤ Alterações                                  └───────┤ Ano
-                  └───────┤ Recursos
+                           21.1.1-001                                    21.001.1
+♦──────── SemVer ───────────┬─┬─┬──┬──────────────────── CalVer ──────────┬──┬──┬─────────────────────♦
+                            │ │ │  └┤ Build                               │  │  └─┤ Build
+                            │ │ └───┤ Correções                           │  └────┤ Dia absoluto do ano
+                            │ └─────┤ Alterações                          └───────┤ Ano
+                            └───────┤ Recursos          
 ```
 
 ### 2022
@@ -36,14 +36,16 @@ Para elevar o nível do projeto, o arquivo Readme no formato TXT presente no pac
 Neste ano, Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos mantendo sua arquitetura [monolítica-modular](https://youtu.be/CsrHHHPHKwE). Monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de desenvolvimento, depuração, teste, implementação e execução.
 
 O que está por vir:
-- Porte do código-fonte para EN-US
-- Simplificação da habilitação de recursos
-- Overview da rotina de backup
-- Simplificação dos módulos de backup
-- Replicação de dados de backup
-- Configuração da taxa de compressão de dados
-- Criação de fluxos complexos
-- Importação e exportação de configurações
+|Status|Alteração|
+|:---:|:---|
+|:white_check_mark:|Porte do código-fonte para EN-US|
+||Simplificação da habilitação de recursos|
+|:white_check_mark:|Overview da rotina de backup|
+||Simplificação dos módulos de backup|
+||Replicação de dados de backup|
+||Configuração da taxa de compressão de dados|
+||Criação de fluxos complexos|
+|:white_check_mark:|Importação e exportação de configurações|
 
 Para saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
