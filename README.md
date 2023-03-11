@@ -15,9 +15,9 @@ O universo de Tron criado por Steven Lisberger foi uma clara inspiração na con
 Ao longo do ano, a cadência no lançamento de novas versões trouxe funcionalidades e avanços significativos ao software como o suporte ao PowerShell 7.0 e a codificação de caracteres [UTF8NoBom](https://docs.microsoft.com/pt-br/powershell/module/microsoft.powershell.core/about/about_character_encoding), atualização de elementos da interface, migração para o formato de versionamento [CalVer](https://calver.org) a fim de simplificar o controle de versões, suporte ao 7-Zip para a compressão de dados, e a escolha de uma licença de software livre.
 
 ```
-                           21.1.1-001                                    21.001.1
+                           21.1.1-001                                      21.001.1
 ────────── SemVer ──────────┬─┬─┬──┬────────────────────♦› CalVer ──────────┬──┬──┬────────────────────♦›
-                            │ │ │  └┤ Build                                 │  │  └─┤ Build
+                            │ │ │  └┤ Revisão                               │  │  └─┤ Revisão
                             │ │ └───┤ Correções                             │  └────┤ Dia absoluto do ano
                             │ └─────┤ Alterações                            └───────┤ Ano
                             └───────┤ Recursos
@@ -33,28 +33,30 @@ A interface recebeu refinamentos através de duas grandes versões que atualizar
 Para elevar o nível do projeto, o arquivo Readme no formato TXT presente no pacote de software foi substituído por uma versão interativa no formato HTML/CSS com links, layout e palheta de cores compatível com a do software.
 
 ### 2023
-Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua arquitetura [monolítico-modular](https://youtu.be/CsrHHHPHKwE). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução. Esse ano estabelece ainda o [Scrum](https://www.totvs.com/blog/negocios/scrum) como o novo método ágil utilizado para o desenvolvimento das futuras versões, permitindo um intervalo de planejamento maior e atualizações ainda mais sólidas.
+Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua arquitetura [monolítica](https://youtu.be/CsrHHHPHKwE). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução. Esse ano estabelece ainda o [Scrum](https://www.totvs.com/blog/negocios/scrum) como o novo método ágil utilizado para o desenvolvimento das futuras versões, permitindo um intervalo de planejamento maior e atualizações ainda mais sólidas.
 
-Nos últimos anos, foi realizado um trabalho importante e fundamental que nos permitiu chegar até aqui: um software robusto e inteligente. O objetivo é continuar lançando versões desse calibre daqui para frente. Ainda há muito mais por vir. Abaixo, um pouco do roteiro para esse ano:
+Nos últimos anos, foi realizado um trabalho importante e fundamental que nos permitiu chegar até aqui: um software robusto e inteligente. O objetivo é continuar lançando versões desse calibre daqui para frente. Abaixo, um pouco do roteiro para esse ano:
 
 |Status|Origem|Recurso|
 |:---:|:---|:---|
 |:green_circle:|Geral|Porte do código-fonte para EN-US|
-|:yellow_circle:|Geral|Configuração da taxa de compressão de dados|
-|:yellow_circle:|Geral|Redução do uso de memória para operações de compressão de dados|
+|:green_circle:|Geral|Configuração da taxa de compressão de dados|
+|:green_circle:|Geral|Redução do uso de memória para operações de compressão de dados|
+|:yellow_circle:|Geral|Configuração do uso de memória para operações de compressão de dados|
 |:green_circle:|Geral|Exportação do log de compressão de dados|
-||Geral|Configuração de fluxos com diversos módulos|
 |:green_circle:|Backup|Overview da rotina de backup|
 |:green_circle:|Backup|Notificações de incompatibilidade|
-|:yellow_circle:|Backup|Unificação de módulos|
+|:yellow_circle:|Backup|Unificação de funcionalidades|
 ||Backup|Replicação de dados|
 ||Manutenção|Gerenciamento de Pontos de Restauração|
-||Configurações|Habilitação inteligente de recursos|
+||Fluxos|Execução de funcionalidades em fluxos automáticos e configuráveis|
+|:yellow_circle:|Configurações|Gerenciamento inteligente de recursos|
 |:green_circle:|Configurações|Importação e exportação de configurações|
+|:green_circle:|Segurança|Bloqueio de software em caso de comprometimento de integridade|
 
 - :green_circle: Indica que a implementação está concluída
 - :yellow_circle: Indica que a implementação está em progresso
-- :red_circle: Indica que a implementação está cancelada, desabilitada ou foi removida
+- :red_circle: Indica que a implementação foi cancelada, desabilitada, substituída ou removida
 
 Para saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
