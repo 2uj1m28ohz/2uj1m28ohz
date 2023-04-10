@@ -5,7 +5,7 @@ Olá! David Camargo aqui. Nos últimos anos tenho desenvolvido um projeto que fo
 Workflow surgiu da necessidade de agilizar processos e automatizar tarefas repetitivas. Seu desenvolvimento está organizado em ciclos:
 
 ```
-2021 ──────────────♦› 2022 ──────────────♦› 2023 ─ ─ ─ ─ ─ ─ ─ ♦›
+2021 ──────────── › 2022 ──────────── › 2023 ─ ─ ─ ────── ›
 ```
 ### 2021
 Inicialmente escrito para o legado Prompt de Comando, o desenvolvimento de Workflow tem início no segundo semestre de 2021 com o _Ciclo Lento de Desenvolvimento_, período de aprendizagem da linguagem shell script, construção do núcleo do software e execução dos primeiros testes. Posteriormente portado para PowerShell 5.1, o algoritmo ganhou em complexidade e compatibilidade.
@@ -16,7 +16,7 @@ Ao longo do ano, a cadência no lançamento de novas versões trouxe funcionalid
 
 ```
                            21.1.1-001                                      21.001.1
-────────── SemVer ──────────┬─┬─┬──┬────────────────────♦› CalVer ──────────┬──┬──┬────────────────────♦›
+────────── SemVer ──────────┬─┬─┬──┬──────────────────── › CalVer ──────────┬──┬──┬──────────────────── ›
                             │ │ │  └┤ Revisão                               │  │  └─┤ Revisão
                             │ │ └───┤ Correções                             │  └────┤ Dia absoluto do ano
                             │ └─────┤ Alterações                            └───────┤ Ano
@@ -37,28 +37,31 @@ Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduz
 
 Nos últimos anos, foi realizado um trabalho importante e fundamental que nos permitiu chegar até aqui: um software robusto e inteligente. O objetivo é continuar lançando versões desse calibre daqui para frente. Abaixo, um pouco do roteiro para esse ano:
 
-|Status|Origem|Recurso|
+|Status|Tópico|Alteração|
 |:---:|:---|:---|
 |:green_circle:|Geral|Porte do código-fonte para EN-US|
 |:green_circle:|Geral|Configuração da taxa de compressão de dados|
-|:green_circle:|Geral|Redução do uso de memória para operações de compressão de dados|
-|:yellow_circle:|Geral|Configuração do uso de memória para operações de compressão de dados|
+|:orange_circle:|Geral|Redução do uso de memória para operações de compressão de dados|
+|:green_circle:|Geral|Configuração do uso de memória para operações de compressão de dados|
 |:green_circle:|Geral|Exportação do log de compressão de dados|
 |:green_circle:|Backup|Overview da rotina de backup|
 |:green_circle:|Backup|Notificações de incompatibilidade|
 |:yellow_circle:|Backup|Unificação de funcionalidades|
+|:yellow_circle:|Backup|Suporte a multidispositivos|
+|:yellow_circle:|Backup|Suporte a multiusuários|
 ||Backup|Replicação de dados|
 ||Manutenção|Gerenciamento de Pontos de Restauração|
 ||Fluxos|Execução de funcionalidades em fluxos automáticos e configuráveis|
-|:yellow_circle:|Configurações|Gerenciamento inteligente de recursos|
+|:green_circle:|Configurações|Gerenciamento inteligente de recursos|
 |:green_circle:|Configurações|Importação e exportação de configurações|
 |:green_circle:|Segurança|Bloqueio de software em caso de comprometimento de integridade|
 
-- :green_circle: Indica que a implementação está concluída
-- :yellow_circle: Indica que a implementação está em progresso
-- :red_circle: Indica que a implementação foi cancelada, desabilitada, substituída ou removida
+> - :green_circle: Implementação concluída
+> - :yellow_circle: Implementação em progresso
+> - :orange_circle: Implementação substituída
+> - :red_circle: Implementação cancelada, desabilitada ou removida
 
-Para saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
+Saiba mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
 ## :zap: Ferramentas
 - [PowerShell](https://github.com/powershell/powershell)
@@ -68,3 +71,4 @@ Para saber mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28
 - [LibreOffice](https://libreoffice.org)
 - [GIMP](https://gimp.org)
 - [Unsplash](https://unsplash.com)
+- [ChatGPT](https://chat.openai.com)
