@@ -17,10 +17,10 @@ Ao longo do ano, a cadência no lançamento de novas versões trouxe funcionalid
 ```
                            21.1.1-001                                      21.001.1
 ────────── SemVer ──────────┬─┬─┬──┬──────────────────── › CalVer ──────────┬──┬──┬──────────────────── ›
-                            │ │ │  └┤ Revisão                               │  │  └─┤ Revisão
-                            │ │ └───┤ Correções                             │  └────┤ Dia absoluto do ano
-                            │ └─────┤ Alterações                            └───────┤ Ano
-                            └───────┤ Recursos
+                            │ │ │  └─┤ Revisão                              │  │  └─┤ Revisão
+                            │ │ └────┤ Correções                            │  └────┤ Dia absoluto do ano
+                            │ └──────┤ Alterações                           └───────┤ Ano
+                            └────────┤ Recursos
 ```
 
 ### 2022
@@ -33,22 +33,28 @@ A interface recebeu refinamentos através de duas grandes versões que atualizar
 Para elevar o nível do projeto, o arquivo Readme no formato TXT presente no pacote de software foi substituído por uma versão interativa no formato HTML/CSS com links, layout e palheta de cores compatível com a do software.
 
 ### 2023
-Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua arquitetura [monolítica](https://youtu.be/CsrHHHPHKwE). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução. Esse ano estabelece ainda o [Scrum](https://www.totvs.com/blog/negocios/scrum) como o novo método ágil utilizado para o desenvolvimento das futuras versões, permitindo um intervalo de planejamento maior e atualizações ainda mais sólidas.
+No _Ciclo Estável de Desenvolvimento_ Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua arquitetura [monolítica](https://youtu.be/CsrHHHPHKwE). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução. Esse ano estabelece ainda o [Scrum](https://www.totvs.com/blog/negocios/scrum) como o novo método ágil utilizado para o desenvolvimento das futuras versões, permitindo um intervalo de planejamento maior e atualizações ainda mais sólidas.
 
-Nos últimos anos, foi realizado um trabalho importante e fundamental que nos permitiu chegar até aqui: um software robusto e inteligente. O objetivo é continuar lançando versões desse calibre daqui para frente. Abaixo, um pouco do roteiro para esse ano:
+Nos últimos anos, foi realizado um trabalho importante e fundamental que nos permitiu chegar até aqui: um software robusto e inteligente. Abaixo, o roadmap desse ano:
 
 |Status|Tópico|Alteração|
 |:---:|:---|:---|
 |:green_circle:|Geral|Porte do código-fonte para EN-US|
+|:yellow_circle:|Geral|Carregamento do software a partir da home do usuário|
 |:green_circle:|Geral|Configuração da taxa de compressão de dados|
 |:orange_circle:|Geral|Redução do uso de memória para operações de compressão de dados|
 |:green_circle:|Geral|Configuração do uso de memória para operações de compressão de dados|
 |:green_circle:|Geral|Exportação do log de compressão de dados|
 |:green_circle:|Backup|Overview da rotina de backup|
 |:green_circle:|Backup|Notificações de incompatibilidade|
-|:yellow_circle:|Backup|Unificação de funcionalidades|
-|:yellow_circle:|Backup|Suporte a multidispositivos|
-|:yellow_circle:|Backup|Suporte a multiusuários|
+|:green_circle:|Backup|Unificação de funcionalidades|
+|:green_circle:|Backup|Suporte a multidispositivos|
+|:green_circle:|Backup|Suporte a multiusuários|
+||Backup|Suporte a arquivos sólidos|
+|:yellow_circle:|Backup|Suporte à tabela de partições GPT no drive de backup|
+|:yellow_circle:|Backup|Suporte ao sistema de arquivos NTFS no drive de backup|
+|:yellow_circle:|Backup|Suporte à clusters de 64KB no drive de backup|
+|:green_circle:|Backup|Configuração do período de retenção|
 ||Backup|Replicação de dados|
 ||Manutenção|Gerenciamento de Pontos de Restauração|
 ||Fluxos|Execução de funcionalidades em fluxos automáticos e configuráveis|
@@ -56,10 +62,13 @@ Nos últimos anos, foi realizado um trabalho importante e fundamental que nos pe
 |:green_circle:|Configurações|Importação e exportação de configurações|
 |:green_circle:|Segurança|Bloqueio de software em caso de comprometimento de integridade|
 
-> - :green_circle: Implementação concluída
-> - :yellow_circle: Implementação em progresso
-> - :orange_circle: Implementação substituída
-> - :red_circle: Implementação cancelada, desabilitada ou removida
+> - :green_circle: Recurso habilitado
+> - :yellow_circle: Recurso em desenvolvimento
+> - :orange_circle: Recurso substituído
+> - :red_circle: Recurso cancelado
+> - :purple_circle: Recurso postergado
+> - :large_blue_circle: Recurso desabilitado
+> - :black_circle: Recurso removido
 
 Saiba mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
 
