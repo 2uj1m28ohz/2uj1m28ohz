@@ -1,6 +1,4 @@
-## :green_book: Dicionário
-
-### :green_circle: Command-Line Interface
+## :arrow_right: Command-Line Interface
 CLI é a sigla para "Command-Line Interface" (Interface de Linha de Comando, em português). É um método de interação com um computador ou sistema operacional por meio de comandos de texto digitados em uma linha de comando. Ao contrário das interfaces gráficas, que usam elementos visuais como botões e menus, uma CLI permite que os usuários enviem comandos diretamente ao sistema por meio de uma sequência de texto.
 
 Uma CLI geralmente é executada em um terminal ou prompt de comando, onde os usuários digitam comandos específicos seguidos de parâmetros opcionais para realizar uma determinada tarefa. Esses comandos podem variar dependendo do sistema operacional ou aplicativo que está sendo usado.
@@ -19,7 +17,7 @@ As CLIs são amplamente utilizadas em sistemas Unix, Linux e em várias outras p
 
 - Registro e replicação: Ao utilizar uma CLI, é possível registrar e reproduzir comandos usados anteriormente, facilitando a replicação de tarefas e ajudando na resolução de problemas.
 
-### :green_circle: UTF8NoBom
+## :arrow_right: UTF8NoBom
 UTF-8 (Unicode Transformation Format - 8 bits) é uma codificação de caracteres que mapeia caracteres Unicode para sequências de bytes. O termo "BOM" (Byte Order Mark) refere-se a um caractere especial usado para indicar a ordem dos bytes em um arquivo codificado.
 
 UTF-8 sem BOM (UTF-8 no BOM) é uma variante da codificação UTF-8 que não inclui o marcador de ordem de bytes no início do arquivo. Em vez disso, ele assume que os arquivos UTF-8 são codificados sem o BOM. As vantagens da codificação UTF-8 sem BOM incluem:
@@ -30,7 +28,7 @@ UTF-8 sem BOM (UTF-8 no BOM) é uma variante da codificação UTF-8 que não inc
 
 - Portabilidade: A ausência do BOM torna os arquivos UTF-8 mais portáteis, pois podem ser lidos corretamente em uma ampla variedade de sistemas e aplicativos sem a necessidade de lidar com a presença do marcador de ordem de bytes.
 
-### :green_circle: CalVer
+## :arrow_right: CalVer
 O formato de versionamento CalVer (Calendar Versioning) é um método de atribuição de versões que utiliza datas como base para identificar e organizar as versões de um software. Ao contrário de outros sistemas de versionamento, como o Semantic Versioning (SemVer), que utiliza números para representar as versões, o CalVer utiliza datas no formato YYYY.MM.DD (ano.mês.dia) ou variações desse formato. As vantagens do CalVer incluem:
 
 - Intuitivo e compreensível: O uso de datas torna o formato de versionamento fácil de entender para desenvolvedores e usuários. As datas fornecem uma indicação clara do tempo em que uma versão foi lançada.
@@ -47,7 +45,7 @@ O formato de versionamento CalVer (Calendar Versioning) é um método de atribui
 
 - Conformidade com os princípios de versionamento: O CalVer mantém os princípios básicos do versionamento, como a indicação de mudanças significativas e retrocompatibilidade, mesmo que utilize datas em vez de números para representar as versões.
 
-### :green_circle: Clean Code
+## :arrow_right: Clean Code
 Clean Code, ou código limpo, é um conceito e uma abordagem de desenvolvimento de software que se concentra na escrita de código legível, compreensível e fácil de manter. É um conjunto de boas práticas e diretrizes que ajudam os desenvolvedores a criar um código de alta qualidade. As vantagens do Clean Code incluem:
 
 - Legibilidade: O Clean Code é escrito de forma clara e concisa, com nomes de variáveis significativos e estrutura lógica fácil de entender. Isso facilita a leitura e compreensão do código, tanto para o próprio desenvolvedor quanto para outros membros da equipe.
@@ -64,9 +62,7 @@ Clean Code, ou código limpo, é um conceito e uma abordagem de desenvolvimento 
 
 - Melhoria da escalabilidade: O código limpo é mais fácil de escalar. Ao evitar abordagens complicadas e dependências desnecessárias, o código pode ser expandido de forma mais suave e eficiente, garantindo uma melhor escalabilidade do sistema.
 
-- Em resumo, o Clean Code traz inúmeras vantagens, como legibilidade, manutenibilidade, reusabilidade, testabilidade, colaboração em equipe, redução da complexidade e melhoria da escalabilidade. Essas vantagens resultam em um desenvolvimento de software mais eficiente, com menor taxa de erros e maior qualidade geral do código.
-
-### :green_circle: Extreme Programming
+## :arrow_right: Extreme Programming
 A Extreme Programming (XP) é uma metodologia ágil de desenvolvimento de software que se concentra em melhorar a qualidade do produto e a satisfação do cliente, enquanto se adapta às mudanças nos requisitos de forma flexível. Aqui estão algumas das vantagens da metodologia XP:
 
 - Entrega contínua de valor: A XP enfatiza a entrega contínua de software funcional em intervalos curtos, geralmente em iterações semanais ou quinzenais. Isso permite que os clientes obtenham valor rapidamente e oferece a oportunidade de receber feedback valioso para orientar o desenvolvimento futuro.
@@ -83,7 +79,7 @@ A Extreme Programming (XP) é uma metodologia ágil de desenvolvimento de softwa
 
 - Feedback contínuo: A XP valoriza o feedback constante em todas as etapas do projeto. Os testes automatizados e a integração contínua garantem que os erros sejam identificados rapidamente, permitindo que a equipe de desenvolvimento faça correções imediatas. Além disso, a iteração curta permite que o cliente forneça feedback regularmente, garantindo que o produto esteja em conformidade com suas expectativas.
 
-### :green_circle: Scrum
+## :arrow_right: Scrum
 A metodologia ágil Scrum é um framework utilizado para gerenciar projetos complexos e desenvolvimento de produtos. Ele enfatiza a colaboração, a flexibilidade e a entrega iterativa e incremental. Existem várias vantagens associadas à adoção do Scrum, incluindo:
 
 - Adaptabilidade: O Scrum permite que as equipes sejam ágeis e se adaptem às mudanças com facilidade. As exigências do projeto podem evoluir ao longo do tempo, e o Scrum fornece uma estrutura flexível para lidar com essas mudanças de forma iterativa e incremental.
@@ -98,7 +94,7 @@ A metodologia ágil Scrum é um framework utilizado para gerenciar projetos comp
 
 - Melhoria contínua: O Scrum incentiva a reflexão e a melhoria contínua por meio de cerimônias como a retrospectiva do sprint. As equipes têm a oportunidade de analisar o que funcionou bem, identificar áreas de melhoria e planejar ajustes para o próximo sprint. Isso leva a um processo de desenvolvimento mais eficiente ao longo do tempo.
 
-### :green_circle: Arquitetura Monolítica
+## :arrow_right: Arquitetura Monolítica
 A arquitetura monolítica é um estilo de arquitetura de software em que uma aplicação é construída como um único bloco coeso, em que todos os componentes são combinados e interagem dentro do mesmo processo. Nesse tipo de arquitetura, o código-fonte é geralmente organizado em módulos lógicos, mas a aplicação é implantada como um único artefato. Existem várias vantagens associadas à arquitetura monolítica, que incluem:
 
 - Simplicidade: A arquitetura monolítica é relativamente simples de entender e desenvolver, pois todos os componentes estão dentro de uma única aplicação. Isso facilita a compreensão do fluxo de dados e a depuração de problemas.
