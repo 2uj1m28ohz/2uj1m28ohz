@@ -44,12 +44,12 @@ Nos últimos anos, foi realizado um trabalho importante e fundamental que nos pe
 |:green_circle:|Backup|Overview da rotina de backup|
 |:black_circle:|Backup|Notificação de incompatibilidade|
 |:green_circle:|Backup|Unificação de funcionalidades|
-|:yellow_circle:|Backup|Suporte ao Google Drive|
+|:green_circle:|Backup|Suporte ao Google Drive|
 |:yellow_circle:|Backup|Suporte ao iCloud Drive|
 |:green_circle:|Backup|Suporte a multidispositivos|
 |:green_circle:|Backup|Suporte a multiusuários|
 |:green_circle:|Backup|Período de retenção|
-||Backup|Replicação de dados|
+|:yellow_circle:|Backup|Replicação de dados|
 |:green_circle:|Backup|Verificação da saúde do drive de backup|
 |:green_circle:|Backup|Suporte à tabela de partições GPT no drive de backup|
 |:green_circle:|Backup|Suporte ao sistema de arquivos NTFS no drive de backup|
@@ -58,7 +58,7 @@ Nos últimos anos, foi realizado um trabalho importante e fundamental que nos pe
 |:orange_circle:|Compressão|Redução do uso de memória|
 |:green_circle:|Compressão|Configuração do uso de memória|
 |:green_circle:|Compressão|Suporte ao modo sólido|
-|:yellow_circle:|Compressão|Suporte ao processamento multithread|
+|:green_circle:|Compressão|Suporte ao processamento multithread|
 |:green_circle:|Compressão|Exportação do log de compressão de dados|
 ||Manutenção|Gerenciamento de Pontos de Restauração|
 ||Fluxos|Execução de funcionalidades em fluxos automáticos e configuráveis|
