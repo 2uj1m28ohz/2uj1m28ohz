@@ -45,11 +45,11 @@ Nos últimos anos, foi realizado um trabalho importante e fundamental que nos pe
 |:black_circle:|Backup|Notificação de incompatibilidade|
 |:green_circle:|Backup|Unificação de funcionalidades|
 |:green_circle:|Backup|Suporte ao Google Drive|
-|:yellow_circle:|Backup|Suporte ao iCloud Drive|
+|:green_circle:|Backup|Suporte ao iCloud Drive|
 |:green_circle:|Backup|Suporte a multidispositivos|
 |:green_circle:|Backup|Suporte a multiusuários|
 |:green_circle:|Backup|Período de retenção|
-|:yellow_circle:|Backup|Replicação de dados|
+|:green_circle:|Backup|Replicação de dados|
 |:green_circle:|Backup|Verificação da saúde do drive de backup|
 |:green_circle:|Backup|Suporte à tabela de partições GPT no drive de backup|
 |:green_circle:|Backup|Suporte ao sistema de arquivos NTFS no drive de backup|
