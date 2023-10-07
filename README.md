@@ -5,7 +5,7 @@ Olá! Nos últimos anos tenho desenvolvido um projeto que foi muito além das ex
 Workflow surgiu da necessidade de agilizar processos e automatizar tarefas repetitivas. Seu desenvolvimento está organizado em ciclos:
 
 ```
-2021 ──────────── › 2022 ──────────── › 2023 ─ ─ ─ ────── ›
+2021 ───────────── › 2022 ───────────── › 2023 ───────── ─ ─ › 2024 ─ ─ ─ ─ ─ ─ ─ ›
 ```
 ### 2021
 Inicialmente escrito para o legado Prompt de Comando, o desenvolvimento de Workflow tem início no segundo semestre de 2021 com o _Ciclo Lento de Desenvolvimento_, período de aprendizagem da linguagem shell script, construção do núcleo do software e execução dos primeiros testes. Posteriormente portado para PowerShell 5.1, o algoritmo ganhou em complexidade e compatibilidade.
@@ -49,19 +49,23 @@ Nos últimos anos, foi realizado um trabalho importante e fundamental que nos pe
 |:green_circle:|Backup|Suporte a multidispositivos|
 |:green_circle:|Backup|Suporte a multiusuários|
 |:green_circle:|Backup|Período de retenção|
-|:green_circle:|Backup|Replicação de dados|
 |:green_circle:|Backup|Verificação da saúde do drive de backup|
 |:green_circle:|Backup|Suporte à tabela de partições GPT no drive de backup|
 |:green_circle:|Backup|Suporte ao sistema de arquivos NTFS no drive de backup|
 |:green_circle:|Backup|Suporte à clusters de 64KB no drive de backup|
+|:green_circle:|Backup|Replicação de dados|
+|:green_circle:|Réplica|Verificação da saúde do drive de réplica|
+|:green_circle:|Réplica|Suporte à tabela de partições GPT no drive de réplica|
+|:green_circle:|Réplica|Suporte ao sistema de arquivos NTFS no drive de réplica|
+|:green_circle:|Réplica|Suporte à clusters de 64KB no drive de réplica|
 |:green_circle:|Compressão|Configuração da taxa de compressão de dados|
 |:orange_circle:|Compressão|Redução do uso de memória|
 |:green_circle:|Compressão|Configuração do uso de memória|
 |:green_circle:|Compressão|Suporte ao modo sólido|
 |:green_circle:|Compressão|Suporte ao processamento multithread|
 |:green_circle:|Compressão|Exportação do log de compressão de dados|
-||Manutenção|Gerenciamento de Pontos de Restauração|
-||Fluxos|Execução de funcionalidades em fluxos automáticos e configuráveis|
+|:purple_circle:|Manutenção|Gerenciamento de Pontos de Restauração|
+|:purple_circle:|Fluxos|Execução de funcionalidades em fluxos automáticos e configuráveis|
 |:green_circle:|Configurações|Gerenciamento inteligente de recursos|
 |:green_circle:|Configurações|Importação e exportação de configurações|
 |:green_circle:|Segurança|Bloqueio de software em caso de comprometimento de integridade|
