@@ -4,11 +4,14 @@ Olá! Nos últimos anos tenho desenvolvido um projeto que foi muito além das ex
 ## :computer: Desenvolvimento
 Workflow surgiu da necessidade de agilizar processos e automatizar tarefas repetitivas. Seu desenvolvimento está organizado em ciclos:
 
-```
-2021 ───────────── › 2022 ───────────── › 2023 ───────── ─ ─ › 2024 ─ ─ ─ ─ ─ ─ ─ ›
-```
-### 2021
-Inicialmente escrito para o legado Prompt de Comando, o desenvolvimento de Workflow tem início no segundo semestre de 2021 com o _Ciclo Lento de Desenvolvimento_, período de aprendizagem da linguagem shell script, construção do núcleo do software e execução dos primeiros testes. Posteriormente portado para PowerShell 5.1, o algoritmo ganhou em complexidade e compatibilidade.
+|2021|2022|2023|2024|
+|:---:|:---:|:---:|:---:|
+|Alpha|Beta|Gama|Delta|
+
+<details>
+<summary>Ciclo Alpha</summary>
+
+Inicialmente escrito para o legado Prompt de Comando, o desenvolvimento de Workflow tem início no segundo semestre de 2021 com o _Ciclo Alpha_, período de aprendizagem da linguagem shell script, construção do núcleo do software e execução dos primeiros testes. Posteriormente portado para PowerShell 5.1, o algoritmo ganhou em complexidade e compatibilidade.
 
 O universo de Tron criado por Steven Lisberger foi uma clara inspiração na construção do projeto desde as primeiras linhas de código. Há diversos easter eggs espalhados pelo algoritmo e interface das versões iniciais, no entanto elas nunca foram publicadas.
 
@@ -23,17 +26,23 @@ Ao longo do ano, a cadência no lançamento de novas versões trouxe funcionalid
                             └────────┤ Recursos
 ```
 
-### 2022
+</details>
+
+<details>
+<summary>Ciclo Beta</summary>
+
 Após seis meses de desenvolvimento, Workflow deixou de ser um software restrito e ganhou um repositório no GitHub, sendo publicado sob a GPL-3.0.
 
-A partir de então iniciou-se um importante período de transição e implementação conhecido como _Ciclo Rápido de Desenvolvimento_, onde a refatoração constante do código possibilitado pelo lançamento de novas versões com o intervalo de apenas dez dias aplicou os conceitos da filosofia [Clean Code](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) e da metodologia ágil [Extreme Programming](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) para aprimorar a qualidade do algoritmo e introduzir novos recursos, entre eles o Registro de Eventos, instalação e atualização automáticas a partir do repositório, e a Verificação de Integridade que detecta e corrige alterações ilegais de algoritmo, recursos estes que permitem maior controle, segurança, velocidade e confiabilidade na entrega atualizações.
+A partir de então iniciou-se um importante período de transição e implementação conhecido como _Ciclo Beta_, onde a refatoração constante do código possibilitado pelo lançamento de novas versões com o intervalo de apenas dez dias aplicou os conceitos da filosofia [Clean Code](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) e da metodologia ágil [Extreme Programming](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) para aprimorar a qualidade do algoritmo e introduzir novos recursos, entre eles o Registro de Eventos, instalação e atualização automáticas a partir do repositório, e a Verificação de Integridade que detecta e corrige alterações ilegais de algoritmo, recursos estes que permitem maior controle, segurança, velocidade e confiabilidade na entrega atualizações.
 
 A interface recebeu refinamentos através de duas grandes versões que atualizaram os elementos existentes e adicionaram temas. Os fundamentos instituídos pelas Diretrizes de Interface determinam intuitividade, unidade e minimalismo como alguns dos requisitos da experiência do usuário. Tendo em mente que uma [CLI](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) está limitada às possiblidades do terminal que a executa, é importante criar seus próprios elementos, fluxos e estudar a palheta de cores legível pelo terminal a fim de criar um layout consistente e agradável. "_Design não é apenas aparência, design é sobre como as coisas funcionam._" - Steve Jobs.
 
 Para elevar o nível do projeto, o arquivo Readme no formato TXT presente no pacote de software foi substituído pelo formato HTML/CSS com links, layout e palheta de cores compatível com a do software.
 
-### 2023
-No _Ciclo Estável de Desenvolvimento_ Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua [Arquitetura Monolítica](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução. Esse ano estabelece ainda o [Scrum](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) como o novo método ágil utilizado para o desenvolvimento das futuras versões, permitindo um intervalo de planejamento maior e atualizações ainda mais sólidas.
+</details>
+
+### Ciclo Gama
+No _Ciclo Gama_ Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua [Arquitetura Monolítica](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução. Esse ano estabelece ainda o [Scrum](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) como o novo método ágil utilizado para o desenvolvimento das futuras versões, permitindo um intervalo de planejamento maior e atualizações ainda mais sólidas.
 
 Nos últimos anos, foi realizado um trabalho importante e fundamental que nos permitiu chegar até aqui: um software robusto e inteligente. Abaixo, o roadmap desse ano:
 
