@@ -42,54 +42,57 @@ Para elevar o nível do projeto, o arquivo Readme no formato TXT presente no pac
 </details>
 
 ### Ciclo Gama
-No _Ciclo Gama_ Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua [Arquitetura Monolítica](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução. Esse ano estabelece ainda o [Scrum](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) como o novo método ágil utilizado para o desenvolvimento das futuras versões, permitindo um intervalo de planejamento maior e atualizações ainda mais sólidas.
+Gama foi um importante ciclo de amadurecimento de software, quando dezenas de novos recursos conduziram Workflow à um nível de qualidade nunca antes visto, potencializado pela adocação da metodologia ágil [Scrum](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md) que proporcionou um intervalo de planejamento maior e atualizações ainda mais sólidas. Algumas das principais alterações incluem:
 
-Nos últimos anos, foi realizado um trabalho importante e fundamental que nos permitiu chegar até aqui: um software robusto e inteligente. Abaixo, o roadmap desse ano:
+- Geral
+    - Porte do código-fonte para EN-US
+    - Carregamento do software a partir da home do usuário
 
-|Status|Tópico|Alteração|
-|:---:|:---|:---|
-|:green_circle:|Geral|Porte do código-fonte para EN-US|
-|:green_circle:|Geral|Carregamento do software a partir da home do usuário|
-|:green_circle:|Backup|Overview da rotina de backup|
-|:black_circle:|Backup|Notificação de incompatibilidade|
-|:green_circle:|Backup|Unificação de funcionalidades|
-|:green_circle:|Backup|Suporte ao Google Drive|
-|:green_circle:|Backup|Suporte ao iCloud Drive|
-|:green_circle:|Backup|Suporte a multidispositivos|
-|:green_circle:|Backup|Suporte a multiusuários|
-|:green_circle:|Backup|Período de retenção|
-|:green_circle:|Backup|Verificação da saúde do drive de backup|
-|:green_circle:|Backup|Suporte à tabela de partições GPT no drive de backup|
-|:green_circle:|Backup|Suporte ao sistema de arquivos NTFS no drive de backup|
-|:green_circle:|Backup|Suporte à clusters de 64KB no drive de backup|
-|:green_circle:|Backup|Replicação de dados|
-|:green_circle:|Réplica|Verificação da saúde do drive de réplica|
-|:green_circle:|Réplica|Suporte à tabela de partições GPT no drive de réplica|
-|:green_circle:|Réplica|Suporte ao sistema de arquivos NTFS no drive de réplica|
-|:green_circle:|Réplica|Suporte à clusters de 64KB no drive de réplica|
-|:green_circle:|Compressão|Configuração da taxa de compressão de dados|
-|:orange_circle:|Compressão|Redução do uso de memória|
-|:green_circle:|Compressão|Configuração do uso de memória|
-|:green_circle:|Compressão|Suporte ao modo sólido|
-|:green_circle:|Compressão|Suporte ao processamento multithread|
-|:green_circle:|Compressão|Exportação do log de compressão de dados|
-|:purple_circle:|Manutenção|Gerenciamento de Pontos de Restauração|
-|:purple_circle:|Fluxos|Execução de funcionalidades em fluxos automáticos e configuráveis|
-|:green_circle:|Configurações|Gerenciamento inteligente de recursos|
-|:green_circle:|Configurações|Importação e exportação de configurações|
-|:green_circle:|Segurança|Bloqueio de software em caso de comprometimento de integridade|
+- Backup
+    - Unificação das rotinas de backup
+    - Overview da rotina de backup
+    - Estimativa do tamanho do backup
+    - Suporte ao Google Drive
+    - Suporte ao iCloud Drive
+    - Suporte ao Dropbox
+    - Suporte a multidispositivos
+    - Suporte a multiusuários
+    - Configuração do período de retenção
+    - Verificação da saúde do drive de backup
+    - Suporte à tabela de partições GPT no drive de backup
+    - Suporte ao sistema de arquivos NTFS no drive de backup
+    - Suporte à clusters de 64KB no drive de backup
+    - Exibe o tempo total de execução
 
-> - :green_circle: Recurso habilitado
-> - :yellow_circle: Recurso em desenvolvimento
-> - :orange_circle: Recurso substituído
-> - :red_circle: Recurso cancelado
-> - :purple_circle: Recurso postergado
-> - :large_blue_circle: Recurso desabilitado
-> - :black_circle: Recurso removido
+- Réplica
+    - Replicação do backup de dados
+    - Verificação da saúde do drive de réplica
+    - Suporte à tabela de partições GPT no drive de réplica
+    - Suporte ao sistema de arquivos NTFS no drive de réplica
+    - Suporte à clusters de 64KB no drive de réplica
+    - Exibe o tempo total de execução
 
-Saiba mais sobre a evolução de Workflow [aqui](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md).
+- Compressão
+    - Configuração da taxa de compressão de dados
+    - Configuração do uso de memória
+    - Suporte ao modo sólido
+    - Suporte ao processamento multithread
 
-## :zap: Ferramentas
+- Configurações
+    - Gerenciamento inteligente de configurações
+    - Importação e exportação de configurações
+    - Bloqueio e reinstalação de software em caso de comprometimento de integridade
+
+<details>
+<summary>Ciclo Delta</summary>
+
+No _Ciclo Delta_ Workflow receberá aprimoramentos nos elementos, fluxos e conceitos já introduzidos, e expandirá a disponibilidade de recursos enquanto mantém sua [Arquitetura Monolítica](https://github.com/2uj1m28ohz/2uj1m28ohz/blob/main/Topics.md). De forma geral, monólitos são convenientes por facilitar a sobrecarga cognitiva de gerenciamento de código e favorecer a velocidade de todas as etapas do software, do desenvolvimento à execução.
+
+Os ciclos anteriores foram fundamentais na construção de um software robusto e inteligente. Não será diferente em 2024. Saiba mais sobre a [evolução](https://github.com/2uj1m28ohz/workflow/blob/main/Evolution.md) de Workflow.
+
+</details>
+
+## :zap: Tecnologias
 - [PowerShell](https://github.com/powershell/powershell)
 - [Terminal](https://github.com/microsoft/terminal)
 - [VS Code](https://github.com/microsoft/vscode)
